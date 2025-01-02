@@ -1,3 +1,7 @@
+<img width="1237" alt="Screenshot 2025-01-03 at 02 12 10" src="https://github.com/user-attachments/assets/323cccce-8eaf-45e9-aa5c-202e7392d156" />
+
+
+
 # Spring Boot Shopping Cart Web App
 
 ## About
